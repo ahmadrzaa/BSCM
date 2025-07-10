@@ -1,5 +1,9 @@
 # BSCM Congress Website
+## 🔗 Live Demo
 
+> [https://ahmadrzaa.github.io/BSCM/](https://ahmadrzaa.github.io/BSCM/)
+
+---
 Welcome to the official repository for the **BSCM Congress Website** – the digital platform for the Bahrain Society for Human Capital Management’s annual congress event.
 <img width="1884" height="986" alt="homepage_bscm" src="https://github.com/user-attachments/assets/75f54031-1c59-4cb1-847d-b4b6aaf9d0ae" />
 
@@ -33,11 +37,7 @@ The **polling/voting section** (live and real-time) is under development.
 
 ---
 
-## 🔗 Live Demo
 
-> [https://ahmadrzaa.github.io/BSCM/](https://ahmadrzaa.github.io/BSCM/)
-
----
 
 ## 📁 Folder Structure
 
